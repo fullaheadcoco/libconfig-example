@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/c++_example1.dir/example1.cpp.o -o ../../../../out/c++_example1  -Wl,-rpath,/Users/gary/Workspace/git/libconfig-example/build/out ../../../../out/libconfig++.1.7.4.dylib

@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/gary/Workspace/git/libconfig-example/build/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/lib/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/examples/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/examples/c/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/examples/c++/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/tinytest/cmake_install.cmake",
+		"/Users/gary/Workspace/git/libconfig-example/build/external/libconfig/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

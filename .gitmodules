@@ -1,0 +1,3 @@
+[submodule "external/libconfig"]
+	path = external/libconfig
+	url = https://github.com/hyperrealm/libconfig.git
